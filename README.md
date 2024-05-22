@@ -1,1 +1,1 @@
-# Retail-Store_Management_System
+# Retail Store_Management_System
